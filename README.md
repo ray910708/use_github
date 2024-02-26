@@ -9,3 +9,11 @@
 <img src="HW1/index.png" width="500">  
 將專案複製本地  
 <img src="HW1/clone.png" width="500">  
+-git status  
+<img src="HW1/status.png" width="500">  
+add localdata  
+<img src="HW1/add.png" width="500">  
+-git push  
+<img src="HW1/push.png" width="500">  
+上傳後專案  
+<img src="HW1/new.png.png" width="500">  
