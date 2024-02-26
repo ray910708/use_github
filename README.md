@@ -16,4 +16,4 @@ add localdata
 -git push  
 <img src="HW1/push.png" width="500">  
 上傳後專案  
-<img src="HW1/new.png.png" width="500">  
+<img src="HW1/new.png" width="500">  
